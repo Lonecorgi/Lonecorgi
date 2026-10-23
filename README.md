@@ -1,5 +1,5 @@
 -     === Lonecorgi ===
--     === learning python HTML and JS===
+-     === learning java===
 -     === has ✨programmer socks✨===
 -     == Email =:= Ronanwccz@gmail.com ===
 <!---
